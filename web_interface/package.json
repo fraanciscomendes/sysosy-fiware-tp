@@ -1,0 +1,11 @@
+{
+  "name": "web_interface",
+  "version": "1.0.0",
+  "description": "Interface for IoT FIWARE Context Broker",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "Francisco Mendes, Pedro Barbosa",
+  "license": "ISC"
+}

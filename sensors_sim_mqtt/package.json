@@ -1,0 +1,11 @@
+{
+  "name": "sensors_sim_mqtt",
+  "version": "1.0.0",
+  "description": "Dummy sensors for a Smart Agriculture context to communicate by MQTT with an FIWARE UL2.0 IoT Agent",
+  "main": "dummy_sensoring.js",
+  "scripts": {
+    "test": "node dummy_sensoring.js"
+  },
+  "author": "Francisco Mendes, Pedro Barbosa",
+  "license": "ISC"
+}
